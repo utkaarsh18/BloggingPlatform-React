@@ -1,7 +1,7 @@
 # Getting Started with Blogging Platform
 
 MaterialUI template has been used to create a Blogging Platform.
-Following functionalities and users have been added.
+Following functionalities have been added.
 
 1. Create a navigation bar that has the following topics for the bloggers to create/read posts: Academic Resources, Career Services, Campus, Culture, Local Community Resources, Social, Sports, Health and Wellness, Technology, Travel, and Alumni
 2. Provide the user with capability to login with one of the following personas: Student, Faculty, Staff, Moderator, and Administrator.
